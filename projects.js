@@ -1,12 +1,12 @@
 const images = [
-    'projectsContent/esp8266.png',
-    'projectsContent/rooftopStudying1.png',
-    'projectsContent/rooftopStudying2.png',
-    'projectsContent/mystvale.png',
-    'projectsContent/lance.png',
-    'projectsContent/hardDisk.png',
-    'projectsContent/ecrab.png',
-    'projectsContent/mimikyuu.png'
+    '/projectsContent/esp8266.png',
+    '/projectsContent/rooftopStudying1.png',
+    '/projectsContent/rooftopStudying2.png',
+    '/projectsContent/mystvale.png',
+    '/projectsContent/lance.png',
+    '/projectsContent/hardDisk.png',
+    '/projectsContent/ecrab.png',
+    '/projectsContent/mimikyuu.png'
 ];
 let currentIndex = 0;
 const imgSlider = document.getElementById('img-slider');
