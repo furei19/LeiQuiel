@@ -28,10 +28,10 @@ function changeText() {
 
 function changeImg() {
   if (imgCounter == 1) {
-    document.getElementById("featuredImg").src = "images/espgif.gif";
+    document.getElementById("featuredImg").src = "/images/espgif.gif";
     imgCounter--;
   } else {
-    document.getElementById("featuredImg").src = "images/laptop.gif";
+    document.getElementById("featuredImg").src = "/images/laptop.gif";
     imgCounter++;
   }
   featuredImg.classList.remove('featured-img');
