@@ -1,6 +1,6 @@
 @font-face {
     font-family: handwriting;
-    src: url(/Pixelify_Sans/PatrickHand-Regular.ttf);
+    src: url(Pixelify_Sans/PatrickHand-Regular.ttf);
 }
 
 html, body {
@@ -169,7 +169,7 @@ header {
 }
 
 .heading-title-home {
-    background-image: url(/images/background.png);
+    background-image: url(images/background.png);
 }
 
 .learn-button {
@@ -379,7 +379,7 @@ footer img {
 /* About */
 
 .heading-title-about {
-    background-image: url(/images/background.png);
+    background-image: url(images/background.png);
     height: 15vh;
 }
 
@@ -407,7 +407,7 @@ footer img {
 
 /* Contacts */
 .content-contact {
-    background: url(/images/space.gif);
+    background: url(images/space.gif);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
